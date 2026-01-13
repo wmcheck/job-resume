@@ -86,7 +86,6 @@ function App() {
               <p>
                 <b>Языки программирования:</b>{' '}
                 <span itemprop="knowsAbout">JavaScript</span>,{' '}
-                <span itemprop="knowsAbout">TypeScript</span>,{' '}
                 <span itemprop="knowsAbout">Delphi</span>,{' '}
                 <span itemprop="knowsAbout">PHP</span>,{' '}
                 <span itemprop="knowsAbout">SQL</span>
