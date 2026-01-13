@@ -104,6 +104,7 @@ function App() {
                 <span itemprop="knowsAbout">Redux</span>,{' '}
                 <span itemprop="knowsAbout">Bootstrap, Antd</span>,{' '}
                 <span itemprop="knowsAbout">XML, JSON, Rabbit MQ</span>{' '}
+                <span itemprop="knowsAbout">Docker</span>,{' '}
               </p>
               <p>
                 <b>Базы данных:</b>{' '}
@@ -124,7 +125,7 @@ function App() {
                 </span>
               </p>
               <p>
-                <b>Сейчас изучаю:</b>{' '}
+                <b>Изучаю:</b>{' '}
                 <span itemprop="knowsAbout">
                   DDD, TypeScript, Goland, GraphQL, NoSQL БД
                 </span>{' '}
@@ -145,7 +146,7 @@ function App() {
           <div className="contacts">
             <h2>О себе</h2>
             <div className="compact">
-              <p>Не конфликтный, готов брать на себя больше ответственности</p>
+              <p>Не конфликтный, готов брать ответственность на себя</p>
               <p>Навыки совместной работы</p>
               <p>
                 Постоянно учусь и изучаю передовые технологии, библиотеки и
@@ -168,6 +169,16 @@ function App() {
         <div className="content content_experience">
           <h2>Опыт</h2>
           <section>
+            <h3>ООО Автомакон (ВКУСВИЛЛ)</h3>
+            <p>
+              Системный аналитик (команда Курьеры),
+              2024 - 2025.
+            </p> 
+            <p>
+              Разработка, внедрение и сопровождение{' '}
+              <b>Мобильного приложения для курьеров Вкусвилл</b> 
+              Интеграции, разработка микросервисов, переход с монолита, документирование
+            </p>                  
             <h3>Министерство Энергетики РФ</h3>
             <p>
               Главный специалист по информационным системам (ООО КБ Реалтех),
